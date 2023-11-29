@@ -1,0 +1,8 @@
+name: TeamBattlePlugin
+version: '${project.version}'
+main: com.rodrigoappelt.teambattleplugin.TeamBattlePlugin
+api-version: '1.20'
+prefix: TeamBattle
+authors: [Rodrigo Appelt]
+description: A plugin to manage a survival team battle
+website: https://github.com/Agentew04
